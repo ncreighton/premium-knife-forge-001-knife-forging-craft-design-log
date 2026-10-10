@@ -1,0 +1,2 @@
+# premium-knife-forge-001-knife-forging-craft-design-log
+Built for knife-forging-craft professionals who are tired of spending hours building a system before you can actually use it.  Pre-built databases, views, and formula fields — ready to duplicate and use. Mobile-optimized for Notion iOS and Android — works everywhere you work.  ## What's Included  - Knife Forging Craft Design Log — fully configured
